@@ -2,6 +2,7 @@
 - 👀 I’m interested in JS, HTML, CSS.
 - 🌱 I am currently studying on the Hexlet platform. 
 - :grey_question: I plan to study React and Vue.
+- :book: I am currently reading a book "Async & Performance" by author Kyle Simpson.
 - 📫 How to reach me: ablaevavika@gmail.com
 
 <!---
