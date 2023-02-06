@@ -29,7 +29,8 @@
 - i18Next;
 - Axios;
 - React-Toastify;
-- Redux Toolkit.
+- Redux Toolkit;
+- Railway;
 
 <!---
 VikkyAblaeva/VikkyAblaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
