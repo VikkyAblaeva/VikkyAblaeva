@@ -1,4 +1,3 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=VikkyAblaeva)
 
 - 👋 Hi, I’m Vika Ablaeva.
 - 👀 Love JS, HTML, CSS, React.
