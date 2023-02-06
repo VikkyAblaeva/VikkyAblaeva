@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vika Ablaeva.
 - 👀 Love JS, HTML, CSS, React.
 - 🌱 I am currently studying on the Hexlet platform. 
-- :grey_question: I am actively studying the Redux, Redux Toolkit, TypeScript.
+- :grey_question: I am actively studying the TypeScript.
 - :book: I am currently reading a book "Async & Performance" by author Kyle Simpson.
 - 📫 How to reach me: ablaevavika@gmail.com
   
@@ -20,6 +20,16 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
+## Also:
+  
+- Codeclimate;
+- Commander.js;
+- DOM API;
+- onChange;
+- i18Next;
+- Axios;
+- React-Toastify;
+- Redux Toolkit.
 
 <!---
 VikkyAblaeva/VikkyAblaeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
