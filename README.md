@@ -5,7 +5,7 @@
 - :book: I am currently reading a book "Async & Performance" by author Kyle Simpson.
 - 📫 How to reach me: ablaevavika@gmail.com
   
-##I use:
+## I use:
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
